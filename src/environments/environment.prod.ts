@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  title: 'canyonpeers',
-  itemsLabel: 'canyons',
-  usersLabel: 'buddies'
+  // title: 'canyonpeers',
+  // itemsLabel: 'canyons',
+  // usersLabel: 'buddies'
 };
